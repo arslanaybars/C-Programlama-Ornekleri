@@ -11,3 +11,4 @@ C programlama dili ile yazilmis olan ornek programlar
 6 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/klavyeden%20ogrenciye%20ait%20bilgiler.c">Klavyeden bir öğrenciye ait bilgileri gösteren program</a><br/>
 7 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/klavyeden%20girilen%20metin%20ve%20karakter.c">Klavyeden girilen metin içinden yine klayvyeden girilen bir karakterin kaç defa geçtiğini bulan program</a><br/>
 8 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/klavyeden%20girilen%20metin%20uzunlugunu%20bulan%20program.c">Klavyeden girilen metin uzunlugunu bulan program</a><br/>
+9 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/bir%20karakter%20ve%20bir%20sayi%20girildiginde%20sayi%20kadar%20karakteri%20yazan%20program.c">Bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program</a><br/>
