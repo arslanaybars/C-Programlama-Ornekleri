@@ -17,6 +17,7 @@ C programlama dili ile yazilmis olan ornek programlar
 12 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/2%20k%C3%B6k%C3%BC%20olan%20denklemin%20k%C3%B6klerini%20hesaplayan%20program.c">2 kökü olan denklemin köklerini hesaplayan program</a><br/>
 13 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/girdiginiz%20metni%20tersten%20yazan%20program.c">Girdiginiz metni tersten yazan program</a><br/>
 14 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/poniter%20ile%20kare%20almak.c">Pointer ile kare almak</a><br/>
-14 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20bi%20diziyi%20siralama.c">10 elemanlı bi diziyi kucukten buyuge sıralayınız</a><br/>
+15 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20bi%20diziyi%20siralama.c">10 elemanlı bi diziyi kucukten buyuge sıralayınız</a><br/>
+16 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20dizinin%20en%20buyuk%20ve%20en%20kucuk%20sayilarini%20bulan%20program.c">10 elemanlı dizinin en büyük ve en küçük sayilarini bulan program</a><br/>
 
 
