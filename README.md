@@ -13,3 +13,8 @@ C programlama dili ile yazilmis olan ornek programlar
 8 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/klavyeden%20girilen%20metin%20uzunlugunu%20bulan%20program.c">Klavyeden girilen metin uzunlugunu bulan program</a><br/>
 9 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/bir%20karakter%20ve%20bir%20sayi%20girildiginde%20sayi%20kadar%20karakteri%20yazan%20program.c">Bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program</a><br/>
 10 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Sinus%20alan%20program.c">Sinus alan program</a><br/>
+11 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/1%20ile%20100%20aras%C4%B1%2010%20say%C4%B1n%C4%B1n%20en%20buyugu.c">1 ile 100 arası 10 sayının en büyüğü</a><br/>
+12 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/2%20k%C3%B6k%C3%BC%20olan%20denklemin%20k%C3%B6klerini%20hesaplayan%20program.c">2 kökü olan denklemin köklerini hesaplayan program</a><br/>
+13 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/girdiginiz%20metni%20tersten%20yazan%20program.c">Girdiginiz metni tersten yazan program</a><br/>
+14 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/poniter%20ile%20kare%20almak.c">Pointer ile kare almak</a><br/>
+
