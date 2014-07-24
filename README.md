@@ -24,5 +24,7 @@ C programlama dili ile yazilmis olan ornek programlar
 19 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20kelimenin%20uzunlugunu%20hesaplayan%20program.c">Giridiginiz kelimenin uzunlugunu hesaplayan program</a><br/>
 20 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20metnin%20bas%20harflerini%20bulan%20program.c">Giridiginiz metnin bas harflerini bulan program</a><br/>
 21 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20metnin%20uzunlugunu%20ve%20kac%20kelime%20yaz%C4%B1ld%C4%B1g%C4%B1n%C4%B1%20bulan%20program.c">Giridiginiz metnin uzunlugunu ve kac kelime yazıldıgını bulan program</a><br/>
+22 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Gecme%20notu%20hesaplayan%20program.c">Geçme notunu hesaplayan program - Geçme notu 60 olarak alınmıştır</a><br/>
+
 
 
