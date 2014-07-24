@@ -19,5 +19,10 @@ C programlama dili ile yazilmis olan ornek programlar
 14 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/poniter%20ile%20kare%20almak.c">Pointer ile kare almak</a><br/>
 15 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20bi%20diziyi%20siralama.c">10 elemanlı bi diziyi kucukten buyuge sıralayınız</a><br/>
 16 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20dizinin%20en%20buyuk%20ve%20en%20kucuk%20sayilarini%20bulan%20program.c">10 elemanlı dizinin en büyük ve en küçük sayilarini bulan program</a><br/>
+17 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20kelimenin%20bas%20harfini%20bulan%20program.c">Giridiginiz kelimenin bas harfini bulan program</a><br/>
+18 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/girdiginiz%20metni%20tersten%20yazan%20program.c">Giridiginiz kelimenin tersini yazan program</a><br/>
+19 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20kelimenin%20uzunlugunu%20hesaplayan%20program.c">Giridiginiz kelimenin uzunlugunu hesaplayan program</a><br/>
+20 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20metnin%20bas%20harflerini%20bulan%20program.c">Giridiginiz metnin bas harflerini bulan program</a><br/>
+21 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/giridiginiz%20metnin%20uzunlugunu%20ve%20kac%20kelime%20yaz%C4%B1ld%C4%B1g%C4%B1n%C4%B1%20bulan%20program.c">Giridiginiz metnin uzunlugunu ve kac kelime yazıldıgını bulan program</a><br/>
 
 
