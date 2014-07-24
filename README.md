@@ -27,6 +27,7 @@ C programlama dili ile yazilmis olan ornek programlar
 22 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Gecme%20notu%20hesaplayan%20program.c">Geçme notunu hesaplayan program - Geçme notu 60 olarak alınmıştır</a><br/>
 23 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/10%20elemanl%C4%B1%20dinamik%20dizinin%20i%C3%A7erisindeki%20en%20buyuk%20eleman%C4%B1n%20bulunmas%C4%B1.c">10 elemanlı dinamik diziye rasgele yerleşen sayılar içerisinden en büyüğünü bulan program</a><br/>
 24 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/bitwise%20operat%C3%B6rleri.c">Bitwise Operatörleri</a><br/>
+25 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Unsigned%20say%C4%B1y%C4%B1%20binary(ikili)%20sistemde%20yazan%20ve%20ekranda%20g%C3%B6steren%20program.c">Unsigned sayıyı binary(ikili) sistemde yazan ve ekranda gösteren program</a><br/>
 
 
 
