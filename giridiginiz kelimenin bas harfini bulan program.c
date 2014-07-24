@@ -1,5 +1,5 @@
 /*Aybars Arslan */
-/*giridiginiz kelimenin bas harfini bulan program*/
+/*Giridiginiz kelimenin bas harfini bulan program*/
 
 #include <stdio.h>
 #include <stdlib.h>
