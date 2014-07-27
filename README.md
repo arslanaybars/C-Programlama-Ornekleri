@@ -1,7 +1,7 @@
 C-Programlama-Ornekleri
 =======================
 
-C programlama dili ile yazilmis olan ornek programlar
+C programlama dili ile yazilmis olan örnek programlar
 
 1 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/1%20ile%20100%20Arasi%20Sayilarin%20Toplami.c">1 den 100e kadar sayıların toplamını veren program</a><br/>
 2 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Girilen%203%20sayinin%20siralanmasi.c">3 Sayiyi siralama</a><br/>
