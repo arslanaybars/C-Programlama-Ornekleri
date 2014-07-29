@@ -29,5 +29,5 @@ C programlama dili ile yazilmis olan örnek programlar
 24 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/bitwise%20operat%C3%B6rleri.c">Bitwise Operatörleri</a><br/>
 25 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Unsigned%20say%C4%B1y%C4%B1%20binary(ikili)%20sistemde%20yazan%20ve%20ekranda%20g%C3%B6steren%20program.c">Unsigned sayıyı binary(ikili) sistemde yazan ve ekranda gösteren program</a><br/>
 26 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/Linked%20listdeki%20elemanlar%C4%B1%20k%C3%BCc%C3%BCkten%20buyuge%20dogru%20s%C4%B1ralayan%20program%C4%B1%20bubble%20sort%20ile%20s%C4%B1ralay%C4%B1n%C4%B1z.c">Linked listdeki elemanları kücükten buyuge dogru sıralayan programı bubble sort ile sıralayan program</a><br/>
-
+27 - <a href="https://github.com/arslanaybars/C-Programlama-Ornekleri/blob/master/g%C3%BCn%20bulma.c">Gün Bulma</a><br/>
 
